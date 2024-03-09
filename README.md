@@ -1,7 +1,7 @@
 ## 下载地址
    <br>
-   <a href="https://jinenge.cn/TVBox.apk">
-     点击下载TVBox（进恩哥版） 
+   <a href="https://wwp.lanzoup.com/iQ1DY1qsi24f">
+     点击下载TVBox（魔改版） 
   </a>
    <br>
    
@@ -28,8 +28,8 @@
 ## 此配置所有tvbox开源的可用
 
 
-容器的配置地址：[https://jihulab.com/jinenge/tvbox/-/raw/main/1.json](https://jihulab.com/jinenge/tvbox/-/raw/main/1.json)复制地址或者点击地址复制即可。
-我本地github服务器的配置地址：[https://jinenge.cn/1.json](https://jinenge.cn/1.json)复制地址或者点击地址复制即可。
+容器的配置地址：[https://github.com/a736240087/tvbox/blob/main/1.json](https://github.com/a736240087/tvbox/blob/main/1.json)复制地址或者点击地址复制即可。
+我本地github服务器的配置地址：[https://tvbox.cvkkj.com/tvbox-main/1.json](https://tvbox.cvkkj.com/tvbox-main/1.json)复制地址或者点击地址复制即可。
 
 ## 文件目录说明
 里面的配置根据容器这里的目录读取而来
