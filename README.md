@@ -29,7 +29,7 @@
 
 
 容器的配置地址：[https://github.com/a736240087/tvbox/blob/main/1.json](https://github.com/a736240087/tvbox/blob/main/1.json)复制地址或者点击地址复制即可。
-我本地github服务器的配置地址：[https://tvbox.cvkkj.com/tvbox-main/1.json](https://tvbox.cvkkj.com/tvbox-main/1.json)复制地址或者点击地址复制即可。
+我本地github服务器的配置地址：[https://tvbox.hzcvk.tk/tvbox-main/1.json](https://tvbox.hzcvk.tk/tvbox-main/1.json)复制地址或者点击地址复制即可。
 
 ## 文件目录说明
 里面的配置根据容器这里的目录读取而来
