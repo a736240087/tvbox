@@ -4,7 +4,6 @@ CCTV-2,http://39.135.133.170/wh7f454c46tw2908744893_1149684527/ottrrs.hl.chinamo
 CCTV-3,http://39.135.133.162/wh7f454c46tw1964730533_649981197/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?icpid=88888888&RTS=1737037063&from=23&hms_devid=1253&online=1737037063&vqe=3
 CCTV-4,http://39.135.133.170/wh7f454c46tw3273960230_530355269/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8?icpid=88888888&RTS=1737042667&from=23&hms_devid=1254&online=1737042667&vqe=3
 CCTV-5,http://39.135.133.171/wh7f454c46tw3314437036_694036849/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8?icpid=88888888&RTS=1737042707&from=23&hms_devid=1254&online=1737042707&vqe=3
-CCTV-5+,http://39.135.133.152/wh7f454c46tw3351611042_-609652697/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?icpid=88888888&RTS=1737042744&from=23&hms_devid=1230&online=1737042744&vqe=3
 CCTV-6,http://39.135.133.169/wh7f454c46tw3399539193_723996128/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8?icpid=88888888&RTS=1737042792&from=23&hms_devid=1243&online=1737042792&vqe=3
 CCTV-7,http://39.135.133.170/wh7f454c46tw3436997239_-440314708/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8?icpid=88888888&RTS=1737042830&from=23&hms_devid=1254&online=1737042830&vqe=3
 CCTV-8,http://39.135.133.179/wh7f454c46tw3486775995_2129723411/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8?icpid=88888888&RTS=1737042880&from=23&hms_devid=1248&online=1737042880&vqe=3
@@ -17,6 +16,7 @@ CCTV-14,http://39.135.133.178/wh7f454c46tw3757096004_-163990850/ottrrs.hl.chinam
 CCTV-15,http://39.135.133.148/wh7f454c46tw1874350030_-631102986/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8?icpid=88888888&RTS=1737036972&from=23&hms_devid=1232&online=1737036972&vqe=3
 CCTV-16,http://39.135.133.146/wh7f454c46tw3797877021_-1594656326/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?icpid=88888888&RTS=1737043191&from=23&hms_devid=1231&online=1737043191&vqe=3
 CCTV-17,http://39.135.133.178/wh7f454c46tw3830025093_180923956/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8?icpid=88888888&RTS=1737043223&from=23&hms_devid=1248&online=1737043223&vqe=3
+CCTV-5+,http://39.135.133.152/wh7f454c46tw3351611042_-609652697/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?icpid=88888888&RTS=1737042744&from=23&hms_devid=1230&online=1737042744&vqe=3
 江西卫视,http://39.135.133.163/wh7f454c46tw1665517346_-1796664164/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8?icpid=88888888&RTS=1737036763&from=23&hms_devid=1253&online=1737036763&vqe=3
 北京卫视,http://39.135.133.162/wh7f454c46tw64379925_-1129746277/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8?icpid=88888888&RTS=1737043752&from=23&hms_devid=1253&online=1737043752&vqe=3
 东方卫视,http://39.135.133.171/wh7f454c46tw13694368_359633779/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8?icpid=88888888&RTS=1737043701&from=23&hms_devid=1254&online=1737043701&vqe=3
@@ -61,7 +61,7 @@ CHC家庭影院,http://148.135.93.213:81/live.php?id=CHC家庭影院
 凤凰香港,http://148.135.93.213:81/phenix.php?id=fhhk
 星空卫视,，http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
 CHINA V,，http://quan2018.mycloudnas.com:51888/play/a011/index.m3u8
-CCTV-4K,，http://148.135.93.213:81/live.php?id=CCTV4K-av3a
-CCTV-8K,，http://148.135.93.213:81/live.php?id=CCTV8K-av3a
+CCTV-4K,http://148.135.93.213:81/live.php?id=CCTV4K-av3a
+CCTV-8K,http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 重温经典,http://148.135.93.213:81/live.php?id=重温经典
 星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
