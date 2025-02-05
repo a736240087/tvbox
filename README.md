@@ -27,6 +27,7 @@
 
 ## 此配置所有tvbox开源的可用
 
+网络需要有ipv6公网的才能使用，请自行百度各自的路由器ipv6设置教程
 
 配置地址：[https://tv.cvkkj.top/1.json](https://tv.cvkkj.top/1.json)复制地址或者点击地址复制即可。
 
