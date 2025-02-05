@@ -52,7 +52,12 @@ CCTV-5+,http://39.135.133.152/wh7f454c46tw3351611042_-609652697/ottrrs.hl.chinam
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-台湾戏剧台,
+台湾戏剧台,https://stream1.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d452002644e34fbb.m3u8
+台视,rtmp://f13h.mine.nu/sat/tv071
+华视,rtmp://f13h.mine.nu/sat/tv111
+民视,rtmp://f13h.mine.nu/sat/tv051
+TVBS欢乐台,https://stream1.freetv.fun/34dc7b4981ac62f6c596085f0b3cd421ce22b144d9521373f405a7c658f43a50.m3u8
+台视新闻,https://stream1.freetv.fun/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.m3u8
 武博世界,http://39.135.133.157/wh7f454c46tw2522821114_53649339/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1737218009&from=23&hms_devid=1247&online=1737218009&vqe=3
 CHC动作电影,http://148.135.93.213:81/live.php?id=CHC动作电影
 CHC影迷电影，http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
